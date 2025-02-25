@@ -6,7 +6,7 @@
 
 👋 ¡Hola! Soy **Ignacio**, Ingeniero en Electrónica con más de 12 años de experiencia en telecomunicaciones y liderazgo de equipos.
 
-🚀 Actualmente, he finalizado un bootcamp de Ciencia de Datos y sigo explorando esta nueva carrera.
+🚀 Actualmente, he finalizado un bootcamp para ser Data Scientist y sigo explorando esta nueva carrera.
 
 💡 Apasionado por la Ciencia de Datos y el Machine Learning, me encanta transformar datos en soluciones efectivas que impacten en la toma de decisiones.
 
