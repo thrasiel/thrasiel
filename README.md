@@ -4,7 +4,7 @@
 </div>
 
 
-👋 ¡Hola! Soy @thrasiel, Ingeniero en Electrónica con más de 12 años de experiencia en telecomunicaciones y liderazgo de equipos.
+👋 ¡Hola! Soy **Ignacio**, Ingeniero en Electrónica con más de 12 años de experiencia en telecomunicaciones y liderazgo de equipos.
 
 🚀 Actualmente, he finalizado un bootcamp de Ciencia de Datos y sigo explorando esta nueva carrera.
 
