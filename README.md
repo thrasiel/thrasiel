@@ -23,6 +23,8 @@
   
 
 ## Contacto 
+ [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev)
+
 
 maildotcom
 
