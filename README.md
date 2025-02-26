@@ -14,7 +14,10 @@
 
 🔍 Siempre busco nuevos retos donde pueda combinar mi experiencia técnica y mi enfoque analítico para crear valor a través de los datos.
  
- 📫 Puedes contactarme a través de correo: ignacio.zepedat@gmail.com / LinkedIn: https://www.linkedin.com/in/ignacio-zepeda-trujillo/
+📫 Puedes contactarme a través de correo: ignacio.zepedat@gmail.com / LinkedIn: https://www.linkedin.com/in/ignacio-zepeda-trujillo/
+
+
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
   
 	
 
