@@ -23,7 +23,7 @@
   
 
 ## Contacto 
- [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](ignacio.zepedat@gmail.com)
+ <a href="ignacio.zepedat@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)]</a>
 
 
 maildotcom
