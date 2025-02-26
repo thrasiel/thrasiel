@@ -18,7 +18,7 @@
 
 
 # Skills 
- [![My Skills](https://skillicons.dev/icons?i=arduino,py,pytorch,anaconda&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=arduino,py,pytorch,sklearn,tensorflow,vscode,anaconda&theme=light)](https://skillicons.dev)
   
 	
 
