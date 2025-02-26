@@ -8,19 +8,23 @@
 
 🚀 Actualmente, he finalizado un bootcamp para ser Data Scientist y sigo explorando esta nueva carrera.
 
-💡 Apasionado por la Ciencia de Datos y el Machine Learning, me encanta transformar datos en soluciones efectivas que impacten en la toma de decisiones.
+🔬 Apasionado por la Ciencia de Datos y el Machine Learning, me encanta transformar datos en soluciones efectivas que impacten en la toma de decisiones.
 
 🐍 Trabajo principalmente con Python, aplicando técnicas de análisis de datos y modelos de Machine Learning para resolver problemas complejos.
 
 🔍 Siempre busco nuevos retos donde pueda combinar mi experiencia técnica y mi enfoque analítico para crear valor a través de los datos.
- 
-📫 Puedes contactarme a través de correo: ignacio.zepedat@gmail.com / LinkedIn: https://www.linkedin.com/in/ignacio-zepeda-trujillo/
+
+🤖 En mis ratos libres me gusta desarrollar proyectos con Arduino, Esp32 y todo lo que implique Microcontroladores.
+
 
 
 # Skills 
  [![My Skills](https://skillicons.dev/icons?i=arduino,py,pytorch,sklearn,tensorflow,vscode,anaconda&theme=light)](https://skillicons.dev)
   
-	
+
+## Contacto 
+
+maildotcom
 
 
 <!---
