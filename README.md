@@ -17,7 +17,8 @@
 📫 Puedes contactarme a través de correo: ignacio.zepedat@gmail.com / LinkedIn: https://www.linkedin.com/in/ignacio-zepeda-trujillo/
 
 
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+# Skills 
+ [![My Skills](https://skillicons.dev/icons?i=arduino,py,pytorch,anaconda&theme=light)](https://skillicons.dev)
   
 	
 
